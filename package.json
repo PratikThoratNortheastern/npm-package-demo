@@ -1,0 +1,37 @@
+{
+  "name": "get_good_quotes",
+  "version": "1.0.0",
+  "description": "Get quotes based of your needs and moods",
+  "main": "build/index.js",
+  "type": "module",
+  "types": "build/index.d.ts",
+  "files": [
+    "build",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rm -rf build && tsc"
+  },
+  "keywords": [
+    "get_good_quotes",
+    "motivational quotes",
+    "motivation",
+    "quotes",
+    "next js",
+    "node js",
+    "metadata",
+    "React js",
+    "vue js",
+    "Typescript",
+    "express js",
+    "Adonis js",
+    "Svelte",
+    "Nuxt js"
+  ],
+  "author": "Pratik Thorat",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.6.2"
+  }
+}
