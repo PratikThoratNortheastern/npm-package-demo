@@ -24,5 +24,6 @@ npm i get_good_quotes
 
 ```js
 import { getQuote } from "get_good_quotes";
-console.log(getQuote());
+console.log(getMotivationalQuote());
+console.log(getFunnyQuote());
 ```
