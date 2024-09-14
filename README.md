@@ -1,6 +1,9 @@
 # get_good_quotes
 
-## If you want to get random Motivational quotes than use this package
+## Description:
+
+Get motivational or funny quotes in a random order.
+Currently we they are statically generated.
 
 ## To install this package use below command
 
