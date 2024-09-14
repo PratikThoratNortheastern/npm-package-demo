@@ -4,5 +4,3 @@ export const getQuote = () => {
   const getQuote = quotes[randNum];
   return getQuote;
 };
-console.log("The Motivational Quote is: ");
-console.log(getQuote());
