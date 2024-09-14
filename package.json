@@ -1,7 +1,7 @@
 {
   "name": "get_good_quotes",
   "version": "1.0.0",
-  "description": "Get quotes based of your needs and moods",
+  "description": "Get motivational or funny quotes",
   "main": "build/index.js",
   "type": "module",
   "types": "build/index.d.ts",
